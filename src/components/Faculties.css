@@ -1,0 +1,61 @@
+.faculties{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.faculties .faculty{
+    height: 300px;
+    position: relative;
+}
+
+.faculties .faculty .faculty-thumb{
+    width: 100%;
+    height: 100%;
+}
+
+.faculties .faculty img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.faculties .faculty .faculty-title{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 30%;
+    padding: 20px;
+    background-color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.faculties .faculty .faculty-title h1{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+@media (max-width: 992px ) {
+    .faculties{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}    
+  
+
+@media (max-width: 769px){
+    .faculties{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 560px){
+    .faculties{
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+}

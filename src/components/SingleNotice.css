@@ -1,0 +1,31 @@
+.notice-wrapper{
+    display: flex;
+    gap: 20px;
+}
+
+.notice-wrapper .notice-date-wrapper{
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.notice-wrapper .notice-date-wrapper .month{
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.notice-description-wrapper{
+    padding-top: 15px;
+}
+
+.notice-description-wrapper .title{
+    color: var(--primary-color);
+    font-size: 20px;
+}
+
+.notice-description-wrapper .title:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+#hero .slide{
+    /* width: 100%; */
+}
+
+#hero .slide img{
+    /* max-width: 100%; */
+    width: 100%;
+    object-fit: cover;
+}

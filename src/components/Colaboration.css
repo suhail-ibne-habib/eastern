@@ -1,0 +1,27 @@
+.partners-wrap{
+    background-color: #fff;
+    box-shadow: 0 0 15px rgba( 0, 0, 0, 0.1 );
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.partners-wrap .partners{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.partners-wrap .partners .partner{
+    max-width: 115px;
+    height: 115px;
+    flex-grow: 1;
+}
+
+@media (max-width: 576px ) {
+    .partners-wrap .partners{
+      justify-content: center;
+    }
+  }

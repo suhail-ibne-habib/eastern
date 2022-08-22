@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eastern/static/css/main.d0f06910.css",
-    "main.js": "/eastern/static/js/main.b5b39cd1.js",
+    "main.css": "/eastern/static/css/main.edc45d29.css",
+    "main.js": "/eastern/static/js/main.ad6c5e7d.js",
     "static/media/bg.jpg": "/eastern/static/media/bg.eb1be8d7ca60ad32c720.jpg",
     "static/media/Admission_Fair_Summer_WebSlide.webp": "/eastern/static/media/Admission_Fair_Summer_WebSlide.4ceedb6c917fcfe75ac0.webp",
     "static/media/3D_Permanent_Campus.webp": "/eastern/static/media/3D_Permanent_Campus.ff554d1ed9db01a62bb1.webp",
@@ -15,11 +15,11 @@
     "static/media/slick.woff": "/eastern/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/eastern/index.html",
     "static/media/quote.svg": "/eastern/static/media/quote.ff1563eab1486990ba64.svg",
-    "main.d0f06910.css.map": "/eastern/static/css/main.d0f06910.css.map",
-    "main.b5b39cd1.js.map": "/eastern/static/js/main.b5b39cd1.js.map"
+    "main.edc45d29.css.map": "/eastern/static/css/main.edc45d29.css.map",
+    "main.ad6c5e7d.js.map": "/eastern/static/js/main.ad6c5e7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0f06910.css",
-    "static/js/main.b5b39cd1.js"
+    "static/css/main.edc45d29.css",
+    "static/js/main.ad6c5e7d.js"
   ]
 }

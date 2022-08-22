@@ -1,13 +1,33 @@
 {
   "files": {
     "main.css": "/eastern/static/css/main.edc45d29.css",
-    "main.js": "/eastern/static/js/main.ad6c5e7d.js",
+    "main.js": "/eastern/static/js/main.313ca93c.js",
     "static/media/bg.jpg": "/eastern/static/media/bg.eb1be8d7ca60ad32c720.jpg",
     "static/media/Admission_Fair_Summer_WebSlide.webp": "/eastern/static/media/Admission_Fair_Summer_WebSlide.4ceedb6c917fcfe75ac0.webp",
     "static/media/3D_Permanent_Campus.webp": "/eastern/static/media/3D_Permanent_Campus.ff554d1ed9db01a62bb1.webp",
     "static/media/MasumaDilAfrozLaw.jpg": "/eastern/static/media/MasumaDilAfrozLaw.038971a6b11f653da1cb.jpg",
     "static/media/Yousuf_Al_Azad.jpg": "/eastern/static/media/Yousuf_Al_Azad.0380e0f7366a5366b5b2.jpg",
     "static/media/Campus+Bus(1200x450).webp": "/eastern/static/media/Campus+Bus(1200x450).6d21e18017a05f9b4a65.webp",
+    "static/media/FarewellandIEBAccreditationExtensionCelebration2022Header.webp": "/eastern/static/media/FarewellandIEBAccreditationExtensionCelebration2022Header.d6f72d78f566bb6291c7.webp",
+    "static/media/AIT.jpg": "/eastern/static/media/AIT.50825aef7b49a94b052a.jpg",
+    "static/media/UniMAP.jpg": "/eastern/static/media/UniMAP.dc59d8593693545ae395.jpg",
+    "static/media/UITM.jpg": "/eastern/static/media/UITM.53e4349a2ffcb3e0d58e.jpg",
+    "static/media/UUM.jpg": "/eastern/static/media/UUM.d5d0ba30028e594522b0.jpg",
+    "static/media/Frank.jpg": "/eastern/static/media/Frank.368b4ca7d99bdc3d68a5.jpg",
+    "static/media/State_University_of_New_York_seal.png": "/eastern/static/media/State_University_of_New_York_seal.03377ce3ac79b14200e4.png",
+    "static/media/cambridgeInternationalCollege.jpg": "/eastern/static/media/cambridgeInternationalCollege.5d982c535676f49f71ef.jpg",
+    "static/media/TNI_logo.jpg": "/eastern/static/media/TNI_logo.eda449a5646abbca4569.jpg",
+    "static/media/ynvtc.jpg": "/eastern/static/media/ynvtc.80dc705ccb9b28991d10.jpg",
+    "static/media/HZNU_logo.png": "/eastern/static/media/HZNU_logo.9f16f3218ed8ba2756d4.png",
+    "static/media/YUNNAN.jpg": "/eastern/static/media/YUNNAN.79ff02e11042f711fd8f.jpg",
+    "static/media/Worcester.jpg": "/eastern/static/media/Worcester.9980105557591538db38.jpg",
+    "static/media/Salford.jpg": "/eastern/static/media/Salford.0c5e8eb3ed9f2bfdafee.jpg",
+    "static/media/YNU.jpg": "/eastern/static/media/YNU.4853d46fbe46c6699c83.jpg",
+    "static/media/Event_image_Clubcarnival2022heldsatEasternUniversity07082022Header.webp": "/eastern/static/media/Event_image_Clubcarnival2022heldsatEasternUniversity07082022Header.06b0159edf8947ef86a6.webp",
+    "static/media/AIS.jpg": "/eastern/static/media/AIS.95e8695d612acd94acf3.jpg",
+    "static/media/msu.jpg": "/eastern/static/media/msu.1021014ef40aeacab9e3.jpg",
+    "static/media/TA.jpg": "/eastern/static/media/TA.c37e1fdd5fb7fda68a42.jpg",
+    "static/media/putra.png": "/eastern/static/media/putra.a0143b112d8c7a7887ed.png",
     "static/media/slick.svg": "/eastern/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/eastern/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/eastern/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -16,10 +36,10 @@
     "index.html": "/eastern/index.html",
     "static/media/quote.svg": "/eastern/static/media/quote.ff1563eab1486990ba64.svg",
     "main.edc45d29.css.map": "/eastern/static/css/main.edc45d29.css.map",
-    "main.ad6c5e7d.js.map": "/eastern/static/js/main.ad6c5e7d.js.map"
+    "main.313ca93c.js.map": "/eastern/static/js/main.313ca93c.js.map"
   },
   "entrypoints": [
     "static/css/main.edc45d29.css",
-    "static/js/main.ad6c5e7d.js"
+    "static/js/main.313ca93c.js"
   ]
 }

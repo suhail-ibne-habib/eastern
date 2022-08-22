@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/suhail-ibne-habib/eastern/static/css/main.890790bd.css",
-    "main.js": "/suhail-ibne-habib/eastern/static/js/main.c8961d86.js",
-    "static/media/Admission_Fair_Summer_WebSlide.webp": "/suhail-ibne-habib/eastern/static/media/Admission_Fair_Summer_WebSlide.4ceedb6c917fcfe75ac0.webp",
-    "static/media/3D_Permanent_Campus.webp": "/suhail-ibne-habib/eastern/static/media/3D_Permanent_Campus.ff554d1ed9db01a62bb1.webp",
-    "static/media/MasumaDilAfrozLaw.jpg": "/suhail-ibne-habib/eastern/static/media/MasumaDilAfrozLaw.038971a6b11f653da1cb.jpg",
-    "static/media/Yousuf_Al_Azad.jpg": "/suhail-ibne-habib/eastern/static/media/Yousuf_Al_Azad.0380e0f7366a5366b5b2.jpg",
-    "static/media/Campus+Bus(1200x450).webp": "/suhail-ibne-habib/eastern/static/media/Campus+Bus(1200x450).6d21e18017a05f9b4a65.webp",
-    "static/media/slick.svg": "/suhail-ibne-habib/eastern/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/suhail-ibne-habib/eastern/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/suhail-ibne-habib/eastern/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/dots.svg": "/suhail-ibne-habib/eastern/static/media/dots.37990e78ff86fbedd3d6.svg",
-    "static/media/slick.woff": "/suhail-ibne-habib/eastern/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/suhail-ibne-habib/eastern/index.html",
-    "static/media/quote.svg": "/suhail-ibne-habib/eastern/static/media/quote.ff1563eab1486990ba64.svg",
-    "main.890790bd.css.map": "/suhail-ibne-habib/eastern/static/css/main.890790bd.css.map",
-    "main.c8961d86.js.map": "/suhail-ibne-habib/eastern/static/js/main.c8961d86.js.map"
+    "main.css": "/eastern/static/css/main.d0f06910.css",
+    "main.js": "/eastern/static/js/main.b5b39cd1.js",
+    "static/media/bg.jpg": "/eastern/static/media/bg.eb1be8d7ca60ad32c720.jpg",
+    "static/media/Admission_Fair_Summer_WebSlide.webp": "/eastern/static/media/Admission_Fair_Summer_WebSlide.4ceedb6c917fcfe75ac0.webp",
+    "static/media/3D_Permanent_Campus.webp": "/eastern/static/media/3D_Permanent_Campus.ff554d1ed9db01a62bb1.webp",
+    "static/media/MasumaDilAfrozLaw.jpg": "/eastern/static/media/MasumaDilAfrozLaw.038971a6b11f653da1cb.jpg",
+    "static/media/Yousuf_Al_Azad.jpg": "/eastern/static/media/Yousuf_Al_Azad.0380e0f7366a5366b5b2.jpg",
+    "static/media/Campus+Bus(1200x450).webp": "/eastern/static/media/Campus+Bus(1200x450).6d21e18017a05f9b4a65.webp",
+    "static/media/slick.svg": "/eastern/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/eastern/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/eastern/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/dots.svg": "/eastern/static/media/dots.37990e78ff86fbedd3d6.svg",
+    "static/media/slick.woff": "/eastern/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/eastern/index.html",
+    "static/media/quote.svg": "/eastern/static/media/quote.ff1563eab1486990ba64.svg",
+    "main.d0f06910.css.map": "/eastern/static/css/main.d0f06910.css.map",
+    "main.b5b39cd1.js.map": "/eastern/static/js/main.b5b39cd1.js.map"
   },
   "entrypoints": [
-    "static/css/main.890790bd.css",
-    "static/js/main.c8961d86.js"
+    "static/css/main.d0f06910.css",
+    "static/js/main.b5b39cd1.js"
   ]
 }

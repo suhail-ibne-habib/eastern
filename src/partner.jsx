@@ -1,75 +1,94 @@
+import Worcester from './assets/partners/Worcester.jpg';
+import Salford from './assets/partners/Salford.jpg';
+import Frank from './assets/partners/Frank.jpg';
+import UniMAP from './assets/partners/UniMAP.jpg';
+import State from './assets/partners/State_University_of_New_York_seal.png';
+import Cambridge from './assets/partners/cambridgeInternationalCollege.jpg';
+import AIS from './assets/partners/AIS.jpg';
+import AIT from './assets/partners/AIT.jpg';
+import msu from './assets/partners/msu.jpg';
+import TNI from './assets/partners/TNI_logo.jpg';
+import UITM from './assets/partners/UITM.jpg';
+import UUM from './assets/partners/UUM.jpg';
+import Putra from './assets/partners/putra.png';
+import YUNNAN from './assets/partners/YUNNAN.jpg';
+import Ynvtc from './assets/partners/ynvtc.jpg';
+import YNU from './assets/partners/YNU.jpg';
+import HZNU from './assets/partners/HZNU_logo.png';
+import TA from './assets/partners/TA.jpg';
+
 const partner = [
     {
         url: 'https://www.worcester.ac.uk/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/Worcester.jpg'
+        img: Worcester
     },
     {
         url: 'https://www.salford.ac.uk/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/Salford.jpg'
+        img: Salford
     },
     {
         url: 'https://www.franklin.edu/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/Frank.jpg'
+        img: Frank
     },
     {
         url: 'https://www.unimap.edu.my/index.php/en/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/UniMAP.jpg'
+        img: UniMAP
     },
     {
         url: 'https://www.suny.edu/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/State_University_of_New_York_seal.png'
+        img: State
     },
     {
         url: 'https://www.cambridgecollege.co.uk/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/cambridgeInternationalCollege.jpg'
+        img: Cambridge
     },
     {
         url: 'https://www.ais.ac.nz/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/AIS.jpg'
+        img:  AIS
     },
     {
         url: 'https://ait.ac.th/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/AIT.jpg'
+        img:  AIT
     },
     {
         url: 'https://www.msu.edu.my/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/msu.jpg'
+        img:  msu
     },
     {
         url: 'https://www.tni.ac.th/home/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/TNI_logo.jpg'
+        img: TNI
     },
     {
         url: 'https://www.uitm.edu.my/index.php/en/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/UITM.jpg'
+        img:  UITM
     },
     {
         url: 'https://www.uum.edu.my/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/UUM.jpg'
+        img:  UUM
     },
     {
         url: 'https://putrabusinessschool.edu.my/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/putra.png'
+        img:  Putra
     },
     {
         url: 'https://en.ynufe.edu.cn/pub/yufeenglish/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/YUNNAN.jpg'
+        img:  YUNNAN
     },
     {
         url: 'http://university.cuecc.com/school/index?id=717',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/ynvtc.jpg'
+        img:  Ynvtc
     },
     {
         url: 'http://english.ynnu.edu.cn/',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/YNU.jpg'
+        img:  YNU
     },
     {
         url: 'https://www.csc.edu.cn/studyinchina/indexen.aspx',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/HZNU_logo.png'
+        img:  HZNU
     },
     {
         url: 'http://www.tamk.fi/en',
-        img: 'http://easternuni.edu.bd/assets/aboutUs/InternationalAcademicCollaboration/TA.jpg'
+        img:  TA
     }
 ]
 

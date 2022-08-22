@@ -20,13 +20,13 @@ function Hero(){
 
             <Slider {...settings}>
                 <div className="slide">
+                    <img src={Slider3} alt="" />
+                </div>
+                <div className="slide">
                     <img src={Slider1} alt="" />
                 </div>
                 <div className="slide">
                     <img src={Slider2} alt="" />
-                </div>
-                <div className="slide">
-                    <img src={Slider3} alt="" />
                 </div>
             </Slider>
             

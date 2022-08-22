@@ -80,4 +80,8 @@
     .notice .right{
         flex-grow: 1;
     }
+
+    .notice .right .notices-wrapper{
+        padding: 20px;
+    }
 }

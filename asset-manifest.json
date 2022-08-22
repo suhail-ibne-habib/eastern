@@ -1,14 +1,22 @@
 {
   "files": {
     "main.css": "/eastern/static/css/main.edc45d29.css",
-    "main.js": "/eastern/static/js/main.313ca93c.js",
+    "main.js": "/eastern/static/js/main.223bb79d.js",
     "static/media/bg.jpg": "/eastern/static/media/bg.eb1be8d7ca60ad32c720.jpg",
     "static/media/Admission_Fair_Summer_WebSlide.webp": "/eastern/static/media/Admission_Fair_Summer_WebSlide.4ceedb6c917fcfe75ac0.webp",
     "static/media/3D_Permanent_Campus.webp": "/eastern/static/media/3D_Permanent_Campus.ff554d1ed9db01a62bb1.webp",
+    "static/media/HeaderConvocation2020.jpg": "/eastern/static/media/HeaderConvocation2020.8952a7b88ae9451ba805.jpg",
+    "static/media/English.jpg": "/eastern/static/media/English.0b372bae3c94be66c6b8.jpg",
+    "static/media/Header_career_fair_2020_15072020.jpg": "/eastern/static/media/Header_career_fair_2020_15072020.87c9d8dfc27171a7f1c0.jpg",
     "static/media/MasumaDilAfrozLaw.jpg": "/eastern/static/media/MasumaDilAfrozLaw.038971a6b11f653da1cb.jpg",
     "static/media/Yousuf_Al_Azad.jpg": "/eastern/static/media/Yousuf_Al_Azad.0380e0f7366a5366b5b2.jpg",
+    "static/media/Business.jpg": "/eastern/static/media/Business.69e7f5a8ea5e8394fb5a.jpg",
     "static/media/Campus+Bus(1200x450).webp": "/eastern/static/media/Campus+Bus(1200x450).6d21e18017a05f9b4a65.webp",
+    "static/media/E&T.jpg": "/eastern/static/media/E&T.b2473ee7e6ca6c85acc3.jpg",
     "static/media/FarewellandIEBAccreditationExtensionCelebration2022Header.webp": "/eastern/static/media/FarewellandIEBAccreditationExtensionCelebration2022Header.d6f72d78f566bb6291c7.webp",
+    "static/media/Law.jpg": "/eastern/static/media/Law.63dc27c167d0a3cc8f0d.jpg",
+    "static/media/GraduationLunch2022Header.webp": "/eastern/static/media/GraduationLunch2022Header.89a6844c30e8dd7695b8.webp",
+    "static/media/Header_EUC.jpg": "/eastern/static/media/Header_EUC.b53e4f781d45ec635105.jpg",
     "static/media/AIT.jpg": "/eastern/static/media/AIT.50825aef7b49a94b052a.jpg",
     "static/media/UniMAP.jpg": "/eastern/static/media/UniMAP.dc59d8593693545ae395.jpg",
     "static/media/UITM.jpg": "/eastern/static/media/UITM.53e4349a2ffcb3e0d58e.jpg",
@@ -36,10 +44,10 @@
     "index.html": "/eastern/index.html",
     "static/media/quote.svg": "/eastern/static/media/quote.ff1563eab1486990ba64.svg",
     "main.edc45d29.css.map": "/eastern/static/css/main.edc45d29.css.map",
-    "main.313ca93c.js.map": "/eastern/static/js/main.313ca93c.js.map"
+    "main.223bb79d.js.map": "/eastern/static/js/main.223bb79d.js.map"
   },
   "entrypoints": [
     "static/css/main.edc45d29.css",
-    "static/js/main.313ca93c.js"
+    "static/js/main.223bb79d.js"
   ]
 }

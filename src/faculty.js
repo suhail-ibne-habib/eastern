@@ -1,18 +1,23 @@
+import English from './assets/facultiees/English.jpg';
+import Business from './assets/facultiees/Business.jpg';
+import ET from './assets/facultiees/E&T.jpg';
+import Law from './assets/facultiees/Law.jpg';
+
 const faculties = [
     {
-        img: 'http://easternuni.edu.bd/assets/Law.jpg',
+        img: English,
         title: 'Faculty of Law'
     },
     {
-        img: 'http://easternuni.edu.bd/assets/English.jpg',
+        img: Business,
         title: 'Faculty of Arts'
     },
     {
-        img: 'http://easternuni.edu.bd/assets/Business.jpg',
+        img: ET,
         title: 'Faculty of Business Administration'
     },
     {
-        img: 'http://easternuni.edu.bd/assets/E&T.jpg',
+        img: Law,
         title: 'Faculty of Engineering and Technology'
     }
 ]
